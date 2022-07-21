@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings;
+package org.mokee.settings;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
